@@ -1,4 +1,4 @@
-Welcome to Shell Colors's documentation!
+Welcome to Shell Colors' documentation!
 ======================================
 
 .. toctree::

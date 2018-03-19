@@ -4,4 +4,6 @@ Usage
 
 To use Shell Colors in a project::
 
-    import shcolors
+    from shcolors.shcolors import Colors
+
+    print Colors.RED, "This text is red!", Colors.NORMAL
